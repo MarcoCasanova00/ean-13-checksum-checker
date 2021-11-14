@@ -12,6 +12,4 @@ Italian Comment:
 ' sommare il valore delle cifre nelle posizioni dispari '
 ' sommare il risultato ottenuto al punto 2 con quello ottenuto al punto 3 '
 ' il carattere di controllo è il più piccolo numero che, aggiunto al risultato al punto 4, '
-' da un multiplo di dieci '
-
-Made by Steve Lithium & Marco Casanova
+' da un multiplo di dieci
